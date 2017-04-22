@@ -1,3 +1,2 @@
 # hello-himanshu
-kick off git hub repository
-edit readme under master bracnch
+kick off git hub reposito
